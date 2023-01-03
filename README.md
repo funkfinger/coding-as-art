@@ -1,8 +1,8 @@
-#### PCDS Coding As Art Course Material
+# PCDS Coding As Art Course Material
 
 coming soon....
 
-# Deploy:
+#### Deploy:
 
 ```
 npm run deploy
