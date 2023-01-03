@@ -5,5 +5,6 @@ coming soon....
 #### Deploy:
 
 ```
+nvm use node
 npm run deploy
 ```

@@ -6,12 +6,12 @@ const IndexPage = () => {
       <h1>PCDS Coding as Art Information</h1>
       <ul>
         <li>
-          <a href="slides/first-days-caa1/index.html">
+          <a href="https://slides.com/funkfinger/coding-as-art-1">
             First Days Slides - Coding as Art I
           </a>
         </li>
         <li>
-          <a href="slides/first-days-caa2/index.html">
+          <a href="https://slides.com/funkfinger/coding-as-art-first-days">
             First Days Slides - Coding as Art II
           </a>
         </li>
