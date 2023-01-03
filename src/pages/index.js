@@ -11,7 +11,7 @@ const IndexPage = () => {
           </a>
         </li>
         <li>
-          <a href="https://slides.com/funkfinger/coding-as-art-first-days">
+          <a href="slides/first-days-caa2/slides-coding-as-art-2-first-days.html">
             First Days Slides - Coding as Art II
           </a>
         </li>
