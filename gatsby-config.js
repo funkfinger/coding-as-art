@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: "/coding-as-art",
   siteMetadata: {
     title: `coding-for-art`,
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://funkfinger.github.com`,
   },
   plugins: [
     "gatsby-plugin-sass",
@@ -35,6 +35,13 @@ module.exports = {
         path: "./src/pages/",
       },
       __key: "pages",
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `static`,
+        path: `${__dirname}/static`,
+      },
     },
   ],
 };
